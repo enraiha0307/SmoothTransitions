@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/enraiha0307/SmoothTransitions">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="imgs/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">SmoothTransitions</h3>
